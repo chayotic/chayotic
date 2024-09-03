@@ -4,7 +4,7 @@ I make designs for fun.
 
 Skills: Figma / VectorMotion 
 
-- 🔭 I’m currently working on this page. 
+- 🔭 I’m currently working on making a music player design. 
 
 
 
