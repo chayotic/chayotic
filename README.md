@@ -1,15 +1,13 @@
-### Hi there 👋, my name is Rohith Pai
-#### I am a UI/UX Designer 
-I do designing for fun
+<h1 align="center">Hi 👋, I'm Rohith Pai</h1>
+<h3 align="center">A passionate UI/UX designer from India</h3>
 
-Skills: Figma / VectorMotion 
+- 🔭 I’m currently working on **a new digital app design**
 
-- 🔭 I’m currently working on Music Player Design 
-- 🌱 I’m currently learning UI/UX Designing  
-- 🤔 I’m looking for help with Design Ideas 
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://instagram.com/iblamepai" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="iblamepai" height="30" width="40" /></a>
+<a href="https://dribbble.com/rohith pai" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/dribbble.svg" alt="rohith pai" height="30" width="40" /></a>
+</p>
 
-
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/RohithPai07)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/Iblamepai/)  
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=RohithPai07&show_icons=true)  
-
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
