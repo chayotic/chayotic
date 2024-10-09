@@ -13,6 +13,6 @@
 
 
 **Skills**
-UI UX Designing 
-KWGT Widget Development 
+UI UX Designing,
+KWGT Widget Development & 
 Basic Python Coding
