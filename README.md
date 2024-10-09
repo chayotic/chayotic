@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Rohith Pai</h1>
 
-- 🔭 I’m currently working on **RedDesigning Discord Mobile**
+- 🔭 I’m currently working on **ReDesigning Discord Mobile**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
