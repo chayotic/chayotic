@@ -1,3 +1,8 @@
+<div align ="center">
+
+![snake gif](https://github.com/chayotic/chayotic/blob/output/github-snake-dark.svg)
+
+</div>
 
 ## 🌐 Socials:
 [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:rohithrpai07@proton.me) 
