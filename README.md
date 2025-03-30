@@ -4,6 +4,9 @@
 
 </div>
 
+Currently working on a website which provides free study material to class XI & XII computer science students following the CBSE curriculum.
+(Work on progress)
+
 ### Socials:
 [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:rohithrpai07@proton.me) 
 
